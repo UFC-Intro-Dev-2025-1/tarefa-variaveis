@@ -1,7 +1,6 @@
 {
-    "name": "operacoes-soma-de-3-inteiros",
+    "name": "tarefa-variaveis",
     "version": "1.0.0",
-    "description": "## Contexto",
     "main": "src/main.ts",
     "type": "module",
     "devDependencies": {
